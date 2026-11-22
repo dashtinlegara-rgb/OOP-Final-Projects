@@ -1,0 +1,15 @@
+#Build output
+target/
+out/
+*.class
+
+#Local database credentials (never committed)
+db.properties
+
+#Office temporary lock files
+~$*
+
+#Editor and OS files
+.vscode/
+Thumbs.db
+desktop.ini
